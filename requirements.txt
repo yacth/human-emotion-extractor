@@ -1,0 +1,10 @@
+opencv-contrib-python==4.0.1
+pillow=8.1.0
+pytorch=1.7.1
+torchvision=0.8.2
+tqdm=4.56.0
+matplotlib=3.3.4
+pandas=1.2.1
+scikit-learn=0.23.2
+emoji=1.0.1
+ipython=7.20.0
